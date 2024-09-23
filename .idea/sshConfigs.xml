@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="node11.datakkod.com" id="0c2d92be-e311-40f9-88d5-ac2d06218e7b" port="22" nameFormat="DESCRIPTIVE" username="akkodis-anthony_coco" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
